@@ -1,4 +1,4 @@
-# {{project-name}} - Readme
+# ts-jasmine-spies - Readme
 
 ## Contributing & Development
 
