@@ -41,13 +41,35 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/ts-jasmine-spies/ts-jasmine-spies.git"
+		"url": "git+https://github.com/StatelessStudio/ts-jasmine-spies.git"
 	},
-	"author": "ts-jasmine-spies",
+	"author": "StatelessStudio",
 	"license": "MIT",
 	"bugs": {
-		"url": "https://github.com/ts-jasmine-spies/ts-jasmine-spies/issues"
+		"url": "https://github.com/StatelessStudio/ts-jasmine-spies/issues"
 	},
-	"homepage": "https://github.com/ts-jasmine-spies/ts-jasmine-spies#readme",
-	"keywords": []
+	"homepage": "https://github.com/StatelessStudio/ts-jasmine-spies#readme",
+	"keywords": [
+		"typescript",
+		"jasmine",
+		"spies",
+		"ts-jasmine-spies",
+		"mock",
+		"mocking",
+		"test",
+		"console",
+		"console-spy",
+		"console-spies",
+		"console-mock",
+		"console-mocking",
+		"console-mock-spy",
+		"console-mock-spies",
+		"process",
+		"process-spy",
+		"process-spies",
+		"process-mock",
+		"process-mocking",
+		"process-mock-spy",
+		"process-mock-spies"
+	]
 }
